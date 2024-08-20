@@ -13,7 +13,9 @@ Basic characteristics of crystalline silicon powder:
 | **Python** | 强大的编程语言     | 3.10   |
 | **JavaScript** | Web开发的核心语言 | ES6    |
 | **Docker** | 容器化平台         | 20.10  |
-
+| **Appearance** | 强大的编程语言     | 3.10   |
+| **Density** | Web开发的核心语言 | ES6    |
+| **Mohs hardness** | 容器化平台         | 20.10  |
 | **Appearance** | 强大的编程语言     | 3.10   |
 | **Density** | Web开发的核心语言 | ES6    |
 | **Mohs hardness** | 容器化平台         | 20.10  |
