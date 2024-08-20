@@ -12,8 +12,11 @@ Basic characteristics of crystalline silicon powder:
 |------------|------------------|--------|
 | **Python** | 强大的编程语言     | 3.10   |
 | **JavaScript** | Web开发的核心语言 | ES6    |
-| **Docker   码头工人** | 容器化平台         | 20.10  |
+| **Docker** | 容器化平台         | 20.10  |
 
+| **Appearance** | 强大的编程语言     | 3.10   |
+| **Density** | Web开发的核心语言 | ES6    |
+| **Mohs hardness** | 容器化平台         | 20.10  |
 
 
 # 我的个人博客
@@ -46,7 +49,7 @@ Basic characteristics of crystalline silicon powder:
 
 以下是一个简单的Python代码示例：
 
-```python   ”“python
+```python   ”“python   ”“python”“python
 def greet(name):   def问候(名称):
     return f"Hello, {name}!"   返回"Hello， {name}!"
 
