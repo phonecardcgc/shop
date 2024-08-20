@@ -23,15 +23,15 @@ Basic description:Crystalline silicon micro powder is a type of α-crystal silic
 
 | ITEM      | Correlation index             | Instructions   |
 |------------|------------------|--------|
-| **Purity** | 强大的编程语言     | 3.10   |
-| **JavaScript** | Web开发的核心语言 | ES6    |
-| **Docker   码头工人** | 容器化平台         | 20.10  |
-| **Purity** | 强大的编程语言     | 3.10   |
-| **JavaScript** | Web开发的核心语言 | ES6    |
-| **Docker   码头工人** | 容器化平台         | 20.10  |
+| **Purity** | SiO2^ content     | Optional in 98.0-99.9% range   |
+| **Ionic impurity** | Na+, Cl-, etc | It can be as low as 3ppm or less    |
+| **Particle size distribution** | D50          | D50=0.5-50µm Optional  |
+| **Particle size distribution** | Particle size distribution     | Adjustments can be made based on typical distributions, including multimodal distributions, narrow distributions, etc., according to requirements.   |
+| **Appearance characteristic** | Whiteness, transparency, etc | Whiteness ranges from 60 to 98    |
+| **Surface characteristic** | Hydrophobicity, oil absorption value, etc         | Different functional additives can be selected. |
 
 
-
+# =================================================
 # 我的个人博客
 
 欢迎来到我的个人博客！这里记录了我在学习和生活中的点滴。希望你喜欢！
