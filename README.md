@@ -3,7 +3,7 @@
 ### Crystalline silicon powder
 
 ![Crystalline silicon powder](https://phonecardcgc.com/wp-content/uploads/2024/08/Crystalline-silicon-powder.png)
-######Basic description: 
+###### Basic description: 
 Crystalline silicon micro powder is a type of α-crystal silicon dioxide powder material made from natural quartz. It is processed through sorting, crushing, purification, grinding, and classification.
 
 
