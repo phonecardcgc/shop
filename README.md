@@ -10,14 +10,14 @@ Basic characteristics of crystalline silicon powder:
 
 | ITEM     | UNIT             | Typical Value   |
 |------------|------------------|--------|
-| **Appearance** | /     | 3.10   |
-| **Density** | kg/m3 | ES6    |
-| **Mohs hardness** | /         | 20.10  |
-| **Dielectric constant** | /     | 3.10   |
-| **Dielectric loss** | / | ES6    |
-| **Coefficient of linear expansion** | 1/K         | 20.10  |
-| **Thermal conductivity** | W/K·m     | 3.10   |
-| **Refraction coefficient** | / | ES6    |
+| **Appearance** | /     | White powder   |
+| **Density** | kg/m3^ | 2.65×103^    |
+| **Mohs hardness** | /         | 7  |
+| **Dielectric constant** | /     | 4.65（1MHz）   |
+| **Dielectric loss** | / | 0.0018（1MHz）    |
+| **Coefficient of linear expansion** | 1/K         | 14×10-6^ |
+| **Thermal conductivity** | W/K·m     | 12.6   |
+| **Refraction coefficient** | / | 1.54    |
 
 # 我的个人博客
 
