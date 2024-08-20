@@ -10,16 +10,14 @@ Basic characteristics of crystalline silicon powder:
 
 | ITEM     | UNIT             | Typical Value   |
 |------------|------------------|--------|
-| **Python** | 强大的编程语言     | 3.10   |
-| **JavaScript** | Web开发的核心语言 | ES6    |
-| **Docker** | 容器化平台         | 20.10  |
-| **Appearance** | 强大的编程语言     | 3.10   |
-| **Density** | Web开发的核心语言 | ES6    |
-| **Mohs hardness** | 容器化平台         | 20.10  |
-| **Appearance** | 强大的编程语言     | 3.10   |
-| **Density** | Web开发的核心语言 | ES6    |
-| **Mohs hardness** | 容器化平台         | 20.10  |
-
+| **Appearance** | /     | 3.10   |
+| **Density** | kg/m3 | ES6    |
+| **Mohs hardness** | /         | 20.10  |
+| **Dielectric constant** | /     | 3.10   |
+| **Dielectric loss** | / | ES6    |
+| **Coefficient of linear expansion** | 1/K         | 20.10  |
+| **Thermal conductivity** | W/K·m     | 3.10   |
+| **Refraction coefficient** | / | ES6    |
 
 # 我的个人博客
 
