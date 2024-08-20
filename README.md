@@ -1,10 +1,10 @@
 # Industrial powder materials   
 ## Industrial powder materials   
-### Crystalline silicon powder
+### Crystalline silicon micro powder
 
 ![Crystalline silicon powder](https://phonecardcgc.com/wp-content/uploads/2024/08/Crystalline-silicon-powder.png)
 
-Basic description:Crystalline silicon micro powder is a type of α-crystal silicon dioxide powder material made from natural quartz. It is processed through sorting, crushing, purification, grinding, and classification.
+Basic description: Crystalline silicon micro powder is a type of α-crystal silicon dioxide powder material made from natural quartz. It is processed through sorting, crushing, purification, grinding, and classification.
 
 ### Basic characteristics of crystalline silicon powder: 
 
@@ -31,8 +31,13 @@ Basic description:Crystalline silicon micro powder is a type of α-crystal silic
 | **Surface characteristic** | Hydrophobicity, oil absorption value, etc         | Different functional additives can be selected. |
 
 
-### Crystalline silicon powder
-![Crystalline silicon powder](https://phonecardcgc.com/wp-content/uploads/2024/08/Crystalline-silicon-powder.png)
+### Molten silicon micro powder
+
+![Molten silicon powder](https://phonecardcgc.com/wp-content/uploads/2024/08/Molten-silicon-powder.jpg)
+
+Basic description: Molten silicon micro powder is an amorphous silicon dioxide powder material made by transforming natural quartz into amorphous quartz through electric melting, followed by processes such as crushing, sorting, grinding, and classification.
+
+
 
 
 # ===========================================
