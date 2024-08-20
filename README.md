@@ -3,8 +3,17 @@
 ### Crystalline silicon powder
 
 ![Crystalline silicon powder](https://phonecardcgc.com/wp-content/uploads/2024/08/Crystalline-silicon-powder.png)
-###### Basic description: 
+##### Basic description: 
 Crystalline silicon micro powder is a type of α-crystal silicon dioxide powder material made from natural quartz. It is processed through sorting, crushing, purification, grinding, and classification.
+Basic characteristics of crystalline silicon powder: 
+
+| ITEM     | UNIT             | Typical Value   |
+| 技术栈     | 描述             | 版本   |
+|------------|------------------|--------|
+| **Python** | 强大的编程语言     | 3.10   |
+| **JavaScript** | Web开发的核心语言 | ES6    |
+| **Docker   码头工人** | 容器化平台         | 20.10  |
+
 
 
 # 我的个人博客
@@ -14,12 +23,6 @@ Crystalline silicon micro powder is a type of α-crystal silicon dioxide powder 
 ## 我的旅行经历
 
 最近我去了几个非常有趣的地方，这里有一些我拍的照片。
-
-### 伦敦
-
-![伦敦](https://example.com/london.jpg)
-
-这是伦敦塔桥的照片，真是太壮观了！
 
 ### 巴黎
 
