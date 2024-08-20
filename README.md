@@ -6,7 +6,7 @@
 ##### Basic description: 
 Crystalline silicon micro powder is a type of α-crystal silicon dioxide powder material made from natural quartz. It is processed through sorting, crushing, purification, grinding, and classification.
 
-Basic characteristics of crystalline silicon powder: 
+### Basic characteristics of crystalline silicon powder: 
 
 | ITEM     | UNIT             | Typical Value   |
 |------------|------------------|--------|
@@ -18,6 +18,16 @@ Basic characteristics of crystalline silicon powder:
 | **Coefficient of linear expansion** | 1/K         | 14×10-6^ |
 | **Thermal conductivity** | W/K·m     | 12.6   |
 | **Refraction coefficient** | / | 1.54    |
+
+##### Crystalline silicon micro powder can be classified based on the following characteristics and tailored according to customer requirements:
+
+| 技术栈     | 描述             | 版本   |
+|------------|------------------|--------|
+| **Python** | 强大的编程语言     | 3.10   |
+| **JavaScript** | Web开发的核心语言 | ES6    |
+| **Docker   码头工人** | 容器化平台         | 20.10  |
+
+
 
 # 我的个人博客
 
