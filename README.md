@@ -31,7 +31,11 @@ Basic description:Crystalline silicon micro powder is a type of α-crystal silic
 | **Surface characteristic** | Hydrophobicity, oil absorption value, etc         | Different functional additives can be selected. |
 
 
-# =================================================
+### Crystalline silicon powder
+![Crystalline silicon powder](https://phonecardcgc.com/wp-content/uploads/2024/08/Crystalline-silicon-powder.png)
+
+
+# ===========================================
 # 我的个人博客
 
 欢迎来到我的个人博客！这里记录了我在学习和生活中的点滴。希望你喜欢！
