@@ -66,6 +66,34 @@ Basic description: Molten silicon micro powder is an amorphous silicon dioxide p
 
 ![Soft Composite Silicon Micropowder](https://phonecardcgc.com/wp-content/uploads/2024/08/Soft-Composite-Silicon-Micropowder.jpg)
 
+Basic description: Soft composite silica micropowder is a glassy-phase silica powder material made from natural quartz and other inorganic non-metallic minerals through processes such as compounding, melting, cooling, crushing, grinding, and classification.
+
+### Basic characteristics of Soft Composite Silicon Micropowder: 
+
+| ITEM     | UNIT             | Typical Value   |
+|------------|------------------|--------|
+| **Appearance** | /     | White powder   |
+| **Density** | kg/m<sup>3</sup> | 2.20×10<sup>3</sup>    |
+| **Mohs hardness** | /         | 6.0  |
+| **Dielectric constant** | /     | 3.88（1MHz）   |
+| **Dielectric loss** | / | 0.0002（1MHz）    |
+| **Coefficient of linear expansion** | 1/K         | 0.5×10<sup>-6</sup> |
+| **Thermal conductivity** | W/K·m     | 1.1   |
+| **Refraction coefficient** | / | 1.45    |
+
+### Soft Composite Silicon Micropowder can be classified based on the following characteristics and tailored according to customer requirements:
+
+| ITEM      | Correlation index             | Instructions   |
+|------------|------------------|--------|
+| **Purity** | SiO<sub>2</sub> content     | Optional in 98.0-99.9% range   |
+| **Ionic impurity** | Na+, Cl-, etc | It can be as low as less than 1ppm    |
+| **Particle size distribution** | D50          | D50=0.5-50µm Optional  |
+| **Particle size distribution** | Particle size distribution     | Adjustments can be made based on typical distributions, including multimodal distributions, narrow distributions, etc., according to requirements.   |
+| **Appearance characteristic** | Whiteness, transparency, etc | Whiteness ranges from 60 to 98    |
+| **Surface characteristic** | Hydrophobicity, oil absorption value, etc         | Different functional additives can be selected. |
+
+
+
 
 
 
