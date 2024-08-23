@@ -37,7 +37,7 @@ Basic description: Crystalline silicon micro powder is a type of α-crystal sili
 
 Basic description: Molten silicon micro powder is an amorphous silicon dioxide powder material made by transforming natural quartz into amorphous quartz through electric melting, followed by processes such as crushing, sorting, grinding, and classification.
 
-### Basic characteristics of crystalline silicon powder: 
+### Basic characteristics of Molten silicon micro powder: 
 
 | ITEM     | UNIT             | Typical Value   |
 |------------|------------------|--------|
