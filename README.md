@@ -64,7 +64,7 @@ Basic description: Molten silicon micro powder is an amorphous silicon dioxide p
 
 ### Soft Composite Silicon Micropowder （NOVOPOWDER DB）
 
-![Soft Composite Silicon Micropowder](https://phonecardcgc.com/wp-content/uploads/2024/08/Crystalline-silicon-powder.png)
+![Soft Composite Silicon Micropowder]([https://phonecardcgc.com/wp-content/uploads/2024/08/Crystalline-silicon-powder.png](https://phonecardcgc.com/wp-content/uploads/2024/08/Soft-Composite-Silicon-Micropowder.jpg))
 
 
 # ===========================================
