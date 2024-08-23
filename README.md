@@ -1,6 +1,6 @@
 # Industrial powder materials   
 ## Industrial powder materials   
-### Crystalline silicon micro powder
+### Crystalline silicon micropowder（NOVOPOWDER DC）
 
 ![Crystalline silicon powder](https://phonecardcgc.com/wp-content/uploads/2024/08/Crystalline-silicon-powder.png)
 
@@ -31,7 +31,7 @@ Basic description: Crystalline silicon micro powder is a type of α-crystal sili
 | **Surface characteristic** | Hydrophobicity, oil absorption value, etc         | Different functional additives can be selected. |
 
 
-### Molten silicon micro powder
+### Molten silicon micropowder（NOVOPOWDER DF）
 
 ![Molten silicon powder](https://phonecardcgc.com/wp-content/uploads/2024/08/Molten-silicon-powder.jpg)
 
@@ -61,6 +61,10 @@ Basic description: Molten silicon micro powder is an amorphous silicon dioxide p
 | **Appearance characteristic** | Whiteness, transparency, etc | Whiteness ranges from 60 to 98    |
 | **Surface characteristic** | Hydrophobicity, oil absorption value, etc         | Different functional additives can be selected. |
 
+
+### Soft Composite Silicon Micropowder （NOVOPOWDER DB）
+
+![Soft Composite Silicon Micropowder](https://phonecardcgc.com/wp-content/uploads/2024/08/Crystalline-silicon-powder.png)
 
 
 # ===========================================
