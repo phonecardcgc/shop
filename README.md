@@ -15,7 +15,7 @@ Basic description: Crystalline silicon micro powder is a type of α-crystal sili
 | **Mohs hardness** | /         | 7  |
 | **Dielectric constant** | /     | 4.65（1MHz）   |
 | **Dielectric loss** | / | 0.0018（1MHz）    |
-| **Coefficient of linear expansion** | 1/K         | 14×10-6^ |
+| **Coefficient of linear expansion** | 1/K         | 14×10<sup>-6</sup> |
 | **Thermal conductivity** | W/K·m     | 12.6   |
 | **Refraction coefficient** | / | 1.54    |
 
@@ -23,7 +23,7 @@ Basic description: Crystalline silicon micro powder is a type of α-crystal sili
 
 | ITEM      | Correlation index             | Instructions   |
 |------------|------------------|--------|
-| **Purity** | SiO2^ content     | Optional in 98.0-99.9% range   |
+| **Purity** | SiO<sub>2</sub> content     | Optional in 98.0-99.9% range   |
 | **Ionic impurity** | Na+, Cl-, etc | It can be as low as 3ppm or less    |
 | **Particle size distribution** | D50          | D50=0.5-50µm Optional  |
 | **Particle size distribution** | Particle size distribution     | Adjustments can be made based on typical distributions, including multimodal distributions, narrow distributions, etc., according to requirements.   |
@@ -42,11 +42,11 @@ Basic description: Molten silicon micro powder is an amorphous silicon dioxide p
 | ITEM     | UNIT             | Typical Value   |
 |------------|------------------|--------|
 | **Appearance** | /     | White powder   |
-| **Density** | kg/m3^ | 2.20×103^    |
+| **Density** | kg/m<sup>3</sup> | 2.20×10<sup>3</sup>    |
 | **Mohs hardness** | /         | 6.0  |
 | **Dielectric constant** | /     | 3.88（1MHz）   |
 | **Dielectric loss** | / | 0.0002（1MHz）    |
-| **Coefficient of linear expansion** | 1/K         | 0.5×10-6^ |
+| **Coefficient of linear expansion** | 1/K         | 0.5×10<sup>-6</sup> |
 | **Thermal conductivity** | W/K·m     | 1.1   |
 | **Refraction coefficient** | / | 1.45    |
 
@@ -54,7 +54,7 @@ Basic description: Molten silicon micro powder is an amorphous silicon dioxide p
 
 | ITEM      | Correlation index             | Instructions   |
 |------------|------------------|--------|
-| **Purity** | SiO2^ content     | Optional in 98.0-99.9% range   |
+| **Purity** | SiO<sub>2</sub> content     | Optional in 98.0-99.9% range   |
 | **Ionic impurity** | Na+, Cl-, etc | It can be as low as less than 1ppm    |
 | **Particle size distribution** | D50          | D50=0.5-50µm Optional  |
 | **Particle size distribution** | Particle size distribution     | Adjustments can be made based on typical distributions, including multimodal distributions, narrow distributions, etc., according to requirements.   |
