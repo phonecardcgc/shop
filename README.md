@@ -1,6 +1,6 @@
 # Industrial powder materials   
 
-![NOVOPOWDER](https://phonecardcgc.com/wp-content/uploads/2024/08/NOVOPOWDER-1.jpg)
+![NOVOPOWDER](https://phonecardcgc.com/wp-content/uploads/2024/08/NOVOPOWDER-1-e1724400210840.jpg)
 
 ## Industrial powder materials   
 ### Crystalline silicon micropowder（NOVOPOWDER DC）
