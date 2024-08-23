@@ -87,7 +87,7 @@ Basic description: Molten silicon micro powder is an amorphous silicon dioxide p
 
 ##   ＃＃ 我的技术博客
 
-在这里我分享一些技术相关的知识和经验。
+在这里我分享一些技术相关的知识和经验。<sup>知识</sup> 
 
 ### 表格展示
 
