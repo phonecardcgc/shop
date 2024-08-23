@@ -11,7 +11,7 @@ Basic description: Crystalline silicon micro powder is a type of α-crystal sili
 | ITEM     | UNIT             | Typical Value   |
 |------------|------------------|--------|
 | **Appearance** | /     | White powder   |
-| **Density** | kg/m3^ | 2.65×103^    |
+| **Density** | kg/m<sup>3</sup> | 2.65×10<sup>3</sup>     |
 | **Mohs hardness** | /         | 7  |
 | **Dielectric constant** | /     | 4.65（1MHz）   |
 | **Dielectric loss** | / | 0.0018（1MHz）    |
