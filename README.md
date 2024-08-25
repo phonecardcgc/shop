@@ -76,13 +76,11 @@ Basic description: Soft composite silica micropowder is a glassy-phase silica po
 | ITEM     | UNIT             | Typical Value   |
 |------------|------------------|--------|
 | **Appearance** | /     | White powder   |
-| **Density** | kg/m<sup>3</sup> | 2.20×10<sup>3</sup>    |
-| **Mohs hardness** | /         | 6.0  |
-| **Dielectric constant** | /     | 3.88（1MHz）   |
-| **Dielectric loss** | / | 0.0002（1MHz）    |
-| **Coefficient of linear expansion** | 1/K         | 0.5×10<sup>-6</sup> |
-| **Thermal conductivity** | W/K·m     | 1.1   |
-| **Refraction coefficient** | / | 1.45    |
+| **Density** | kg/m<sup>3</sup> | 2.59×10<sup>3</sup>    |
+| **Mohs hardness** | /         | 5.0  |
+| **Dielectric constant** | /     | 5.00（1MHz）   |
+| **Dielectric loss** | / | 0.003（1MHz）    |
+| **Coefficient of linear expansion** | 1/K         | 3.8×10<sup>-6</sup> |
 
 ### Soft Composite Silicon Micropowder can be classified based on the following characteristics and tailored according to customer requirements:
 
