@@ -93,8 +93,34 @@ Basic description: Soft composite silica micropowder is a glassy-phase silica po
 | **Surface characteristic** | Hydrophobicity, oil absorption value, etc         | Different functional additives can be selected. |
 
 
+### Rounded crystalline silicon Micropowder
 
+![Rounded crystalline silicon Micropowder](https://phonecardcgc.com/wp-content/uploads/2024/08/圆角结晶硅微粉.jpg)
 
+![Rounded crystalline silicon Micropowder2](https://phonecardcgc.com/wp-content/uploads/2024/08/结晶硅微粉-圆角结晶硅微粉.jpg)
+
+Basic description: Rounded crystalline silicon Micropowder is a glassy-phase silica powder material made from natural quartz and other inorganic non-metallic minerals through processes such as compounding, melting, cooling, crushing, grinding, and classification.
+
+#### Basic characteristics of Rounded crystalline silicon Micropowder: 
+
+| ITEM     | UNIT             | Typical Value   |
+|------------|------------------|--------|
+| **Appearance** | /     | White powder   |
+| **Density** | kg/m<sup>3</sup> | 2.59×10<sup>3</sup>    |
+| **Mohs hardness** | /         | 5.0  |
+| **Dielectric constant** | /     | 5.00（1MHz）   |
+| **Dielectric loss** | / | 0.003（1MHz）    |
+| **Coefficient of linear expansion** | 1/K         | 3.8×10<sup>-6</sup> |
+
+#### Rounded crystalline silicon Micropowder can be classified based on the following characteristics and tailored according to customer requirements:
+
+| ITEM      | Correlation index             | Instructions   |
+|------------|------------------|--------|
+| **Purity** | SiO<sub>2</sub> content     | With a stable chemical composition, ensuring consistent performance.   |
+| **Ionic impurity** | Na+, Cl-, etc | It can be as low as less than 5ppm    |
+| **Particle size distribution** | D50          | D50=0.5-10µm Optional  |
+| **Particle size distribution** | Particle size distribution     | Adjustments can be made based on typical distributions, including multimodal distributions, narrow distributions, etc., according to requirements.   |
+| **Surface characteristic** | Hydrophobicity, oil absorption value, etc         | Different functional additives can be selected. |
 
 
 
