@@ -99,7 +99,7 @@ Basic description: Soft composite silica micropowder is a glassy-phase silica po
 
 ![Rounded crystalline silicon Micropowder2](https://phonecardcgc.com/wp-content/uploads/2024/08/结晶硅微粉-圆角结晶硅微粉.jpg)
 
-Basic description: Rounded crystalline silicon Micropowder is a glassy-phase silica powder material made from natural quartz and other inorganic non-metallic minerals through processes such as compounding, melting, cooling, crushing, grinding, and classification.
+Basic description: Rounded-corner crystalline silicon micropowder is a type of α-crystal silicon dioxide powder material produced from crystalline silicon micropowder through a rounding process. It has better flowability compared to crystalline silicon dioxide.
 
 #### Basic characteristics of Rounded crystalline silicon Micropowder: 
 
