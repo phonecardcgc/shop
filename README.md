@@ -86,9 +86,9 @@ Basic description: Soft composite silica micropowder is a glassy-phase silica po
 
 | ITEM      | Correlation index             | Instructions   |
 |------------|------------------|--------|
-| **Purity** | SiO<sub>2</sub> content     | Optional in 98.0-99.9% range   |
-| **Ionic impurity** | Na+, Cl-, etc | It can be as low as less than 1ppm    |
-| **Particle size distribution** | D50          | D50=0.5-50µm Optional  |
+| **Purity** | SiO<sub>2</sub> content     | With a stable chemical composition, ensuring consistent performance.   |
+| **Ionic impurity** | Na+, Cl-, etc | It can be as low as less than 5ppm    |
+| **Particle size distribution** | D50          | D50=0.5-10µm Optional  |
 | **Particle size distribution** | Particle size distribution     | Adjustments can be made based on typical distributions, including multimodal distributions, narrow distributions, etc., according to requirements.   |
 | **Appearance characteristic** | Whiteness, transparency, etc | Whiteness ranges from 60 to 98    |
 | **Surface characteristic** | Hydrophobicity, oil absorption value, etc         | Different functional additives can be selected. |
