@@ -1,3 +1,4 @@
+
 # Industrial powder materials   
 
 ![NOVOPOWDER](https://phonecardcgc.com/wp-content/uploads/2024/08/NOVOPOWDER-1-e1724400210840.jpg)
@@ -121,38 +122,6 @@ Basic description: Rounded-corner crystalline silicon micropowder is a type of �
 | **Particle size distribution** | D50          | D50=0.5-10µm Optional  |
 | **Particle size distribution** | Particle size distribution     | Adjustments can be made based on typical distributions, including multimodal distributions, narrow distributions, etc., according to requirements.   |
 | **Surface characteristic** | Hydrophobicity, oil absorption value, etc         | Different functional additives can be selected. |
-
-
-
-# ===========================================
-# 我的个人博客
-
-欢迎来到我的个人博客！这里记录了我在学习和生活中的点滴。希望你喜欢！
-
-## 我的旅行经历
-
-最近我去了几个非常有趣的地方，这里有一些我拍的照片。
-
-### 巴黎
-
-![巴黎](https://example.com/paris.jpg)
-
-这是巴黎埃菲尔铁塔的美丽照片。
-
-##   ＃＃ 我的技术博客
-
-在这里我分享一些技术相关的知识和经验。<sup>知识</sup> 
-
-### 表格展示
-
-| 技术栈     | 描述             | 版本   |
-|------------|------------------|--------|
-| **Python** | 强大的编程语言     | 3.10   |
-| **JavaScript** | Web开发的核心语言 | ES6    |
-| **Docker   码头工人** | 容器化平台         | 20.10  |
-
-### 代码示例
-
 以下是一个简单的Python代码示例：
 
 ```python   ”“python   ”“python”“python
