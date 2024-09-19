@@ -122,10 +122,3 @@ Basic description: Rounded-corner crystalline silicon micropowder is a type of �
 | **Particle size distribution** | D50          | D50=0.5-10µm Optional  |
 | **Particle size distribution** | Particle size distribution     | Adjustments can be made based on typical distributions, including multimodal distributions, narrow distributions, etc., according to requirements.   |
 | **Surface characteristic** | Hydrophobicity, oil absorption value, etc         | Different functional additives can be selected. |
-以下是一个简单的Python代码示例：
-
-```python   ”“python   ”“python”“python
-def greet(name):   def问候(名称):
-    return f"Hello, {name}!"   返回"Hello， {name}!"
-
-print(greet("World"))   打印(迎接“世界”))
